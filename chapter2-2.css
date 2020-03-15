@@ -1,0 +1,14 @@
+h1{
+	color: white;
+	background-color: red;
+	text-align: center;
+}
+
+h2{
+	color: hotpink;
+	border-bottom: solid 1px pink;
+}
+
+a{
+	text-decoration: none;
+}
